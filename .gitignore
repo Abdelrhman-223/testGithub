@@ -235,7 +235,6 @@ ClientBin/
 *~
 *.dbmdl
 *.dbproj.schemaview
-#*.jfm
 *.pfx
 *.publishsettings
 orleans.codegen.cs
@@ -261,10 +260,6 @@ UpgradeLog*.htm
 ServiceFabricBackup/
 *.rptproj.bak
 
-# SQL Server files
-#*.mdf
-#*.ldf
-#*.ndf
 
 # Business Intelligence projects
 *.rdl.data
